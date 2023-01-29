@@ -24,7 +24,7 @@ const Home: NextPage = () => {
 
           <div className="w-3/5 p-5">
             <div className="font-bold text-left">
-              <span className="text-blue-800">Company</span> Name
+              <span className="text-blue-800">Login-Sinup</span>Demo Page
             </div>
 
             <div className="py-10">
@@ -44,19 +44,19 @@ const Home: NextPage = () => {
                   <FaFacebookF className="text-sm " />
                 </a>
                 <a
-                  href="#"
+                  href="https://www.linkedin.com/in/jkgupta273/" target="_blank"
                   className="p-3 mx-1 border-2 border-gray-200 rounded-full  hover:bg-blue-800 hover:text-white"
                 >
                   <FaLinkedin className="text-sm " />
                 </a>
                 <a
-                  href="#"
+                  href="https://github.com/functionupjkg" target="_blank"
                   className="p-3 mx-1 border-2 border-gray-200 rounded-full  hover:bg-blue-800 hover:text-white"
                 >
                   <FaGithub className="text-sm " />
                 </a>
                 <a
-                  href="#"
+                  href="https://www.google.com/" target="_blank"
                   className="p-3 mx-1 border-2 border-gray-200 rounded-full  hover:bg-blue-800 hover:text-white"
                 >
                   <FaGoogle className="text-sm " />
